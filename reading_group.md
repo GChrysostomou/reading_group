@@ -38,7 +38,7 @@ Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borg
 
 * **Mon 10 Jun 2019**
 	 
-	 - TBD
+	 - **Paper:** (Dong Nguyen, 2018), NAACL -- [Comparing Automatic and Human Evaluation of Local Explanations for Text Classification] (https://www.aclweb.org/anthology/N18-1097) 
 	 - **Moderator:** George
 	 - **Room:** G12-Blue
 
